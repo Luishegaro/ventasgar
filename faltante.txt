@@ -1,0 +1,5 @@
+falta controlar las eliminaciones de material,
+colocar estados a los clientes, materiales , ventas, pagos
+control de accesos,
+hacer que aparezcan notas eliminadas en reportes
+
